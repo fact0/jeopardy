@@ -1,3 +1,5 @@
+www.schienbe.in/jeopardy/
+
 Time taken: 7 hours
 
 Notes: I wasn't very inspired by this project so I didn't add a lot of extras to it. I believe I learned from it what was intended though, so that's good at least. I've been trying to increase my pace with these projects so a lot of the time was spent on the actual logic and functionality and quite a bit less on styles like a normally would. I might come back and re make it eventually. I'd like to try manually working with media queries to make it responsive, while still using css grid to fill the board, but getting the fonts to look good is kind of hard, some of the clues / answers had enough text where it either needed a very small font, an overflow which looks terrible, or the text would break the bounds of the box. There's probably some option where the boxes are larger but you can't see the whole board at once, but I didn't really explore it, this would probably also be the answer from a phone sized version as well.
